@@ -29,6 +29,7 @@ Plugin 'bling/vim-airline'
 Plugin 'sheerun/vim-polyglot'
 Plugin 'trevordmiller/nova-vim'
 Plugin 'mattn/emmet-vim'
+Plugin 'jceb/vim-orgmode'
 
 " add plugins before this
 call vundle#end()
